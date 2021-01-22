@@ -4,7 +4,7 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 - [helloWorld.py](helloWorld.py)
 
 ## Week 3 Files
-- [helloWorld.py](helloWorld.py)
+- [All files located in the sample_data_downloads/ folder](sample_data_downloads/)
 
 ### Sample header
 Some text
