@@ -1,0 +1,2 @@
+The data in this file comes from the CDC: https://data.cdc.gov/NNDSS/NNDSS-TABLE-1Z-Pertussis-to-Poliomyelitis-paralyti/247v-f7n9
+The table has been modified for use in our class.
