@@ -1,0 +1,15 @@
+# Name: Full Name 
+# EMAIL: Put your preferred, full e-mail address here
+# Class: BMI 8540, Spring 2021 
+# Assignment #: The number of the assignment 
+# 
+# Honor Pledge: On my honor as a student of the University of Nebraska at 
+# Omaha, I have neither given nor received unauthorized help on # this programming assignment.
+# 
+# Partners: List the full names and e-mail addresses of everyone you may have 
+# discussed the program with or worked on the program with. It is not necessary 
+# to list your instructor. If none, state "NONE".
+# 
+# Sources: List all the sources you may have used for this assignment. It is 
+# not necessary to list course content or manual pages, just internet 
+# resources you looked up. If none, state "NONE."
