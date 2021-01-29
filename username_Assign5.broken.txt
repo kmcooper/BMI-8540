@@ -39,10 +39,7 @@ len(Dna_Sequence)
 # 8. Copy the dna_sequence to a variable called rna_sequence and replace all T characters with U characters. 
 rna_sequence = rna_sequence.replace("T","u")
 
-# 9. Make sure the nucleotides (characters) in the rna_sequence are all upper case. 
-rna_sequence = rna_sequence.UPPER[]
-
-# 10. Print out a report of the gene that contains genbank_accession, the organism name, gene name, gene start, gene end
+# 9. Print out a report of the gene that contains genbank_accession, the organism name, gene name, gene start, gene end
 print("Genbank Accession number " + genbank_accession +  " is a record for the ' + gene_sym + " gene in " + organism_name)
 print(gene_sym + " starts at position " + gene_start)
 print(gene_sym + " ends at position " + gene_end)
