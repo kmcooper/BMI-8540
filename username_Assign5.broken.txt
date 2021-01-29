@@ -1,0 +1,13 @@
+# In this file you will find a list of descriptions and commands
+# These commands are broken and need to be debugged to do what they were intended
+# Use your basic Python knowledge and debugging skills to fix the code
+# You can modify the commands below to do whatever you'd like, i.e. changing variable 
+# names/types, using new functions, deleting lines, etc, as long as the result
+# matches the description in the commands
+
+# Create and define a set of variables for my bioinformatics data
+
+# Count the number of nucleotides in my DNA sequence
+
+# Make the case of all the sequences below to be lower case
+# then store the lowercase data
