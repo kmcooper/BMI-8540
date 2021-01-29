@@ -9,6 +9,7 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 ## Week 4 Files
 - [honorPledge.txt](honorPledge.txt)
 - [username_Assign5.broken.txt](username_Assign5.broken.txt)
+- [username_Assign5.desiredOutput.txt](username_Assign5.desiredOutput.txt)
 
 ### Sample header
 Some text
