@@ -1,6 +1,6 @@
 print(destinations)
 packages_count = 9
-print("They weight a total of " + str(total_weight) + " pounds")
+print("They weigh a total of " + str(total_weight) + " pounds")
 total_weight = 180
                 'Wisconsin', 'Iowa', 'Michigan', 'California']
 print("Welcome to  the Post Office!")
