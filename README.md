@@ -11,6 +11,9 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 - [username_Assign5.broken.txt](username_Assign5.broken.txt)
 - [username_Assign5.desiredOutput.txt](username_Assign5.desiredOutput.txt)
 
+## Week 6 Files
+- [nucleotideCounter.py](nucleotideCounter.py)
+
 ### Sample header
 Some text
 - bullet 1
