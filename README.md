@@ -14,6 +14,10 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 ## Week 6 Files
 - [nucleotideCounter.py](nucleotideCounter.py)
 
+## Week 7 Files
+- [a7_test1.fa](a7_test1.fa)
+- [a7_test2.fa](a7_test2.fa)
+
 ### Sample header
 Some text
 - bullet 1
