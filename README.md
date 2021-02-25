@@ -19,7 +19,7 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 - [a7_test2.fa](a7_test2.fa)
 
 ## Week 8 Files
-- [refseq_diabetes.py](refseq_diabetes.py)
+- [refseq_diabetes.broken.py](refseq_diabetes.py)
 - [mgi_batch_report.txt](mgi_batch_report.txt)
 
 
