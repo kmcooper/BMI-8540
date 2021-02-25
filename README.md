@@ -21,6 +21,8 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 ## Week 8 Files
 - [refseq_diabetes.broken.py](refseq_diabetes.broken.py)
 - [mgi_batch_report.txt](mgi_batch_report.txt)
+- [gene_samples.tar.gz](gene_samples.tar.gz)
+
 
 
 ### Sample header
