@@ -1,0 +1,180 @@
+Abcc8	current symbol	MGI:1352629	Abcc8	"ATP-binding cassette, sub-family C (CFTR/MRP), member 8"	protein coding gene	NM_001357538
+Ace	current symbol	MGI:87874	Ace	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	protein coding gene	NM_207624
+Adipoq	current symbol	MGI:106675	Adipoq	"adiponectin, C1Q and collagen domain containing"	protein coding gene	NM_009605
+Afmid	current symbol	MGI:2448704	Afmid	arylformamidase	protein coding gene	NM_027827
+Ager	current symbol	MGI:893592	Ager	advanced glycosylation end product-specific receptor	protein coding gene	NM_007425
+Aire	current symbol	MGI:1338803	Aire	autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy)	protein coding gene	NM_009646
+Akt2	current symbol	MGI:104874	Akt2	thymoma viral proto-oncogene 2	protein coding gene	NM_007434
+Aldh2	rat synonym	MGI:1353450	Aldh1a1	"aldehyde dehydrogenase family 1, subfamily A1"	protein coding gene	NM_013467
+Alms1	current symbol	MGI:1934606	Alms1	"ALMS1, centrosome and basal body associated"	protein coding gene	NM_145223
+Alox15	current symbol	MGI:87997	Alox15	arachidonate 15-lipoxygenase	protein coding gene	NM_009660
+Angpt1	current symbol	MGI:108448	Angpt1	angiopoietin 1	protein coding gene	NM_009640
+Aqp2	current symbol	MGI:1096865	Aqp2	aquaporin 2	protein coding gene	NM_009699
+Aqp3	current symbol	MGI:1333777	Aqp3	aquaporin 3	protein coding gene	NM_016689
+Ar	current symbol	MGI:88064	Ar	androgen receptor	protein coding gene	NM_013476
+Arhgef11	current symbol	MGI:2441869	Arhgef11	Rho guanine nucleotide exchange factor (GEF) 11	protein coding gene	NM_001360197
+Arntl	current symbol	MGI:1096381	Arntl	aryl hydrocarbon receptor nuclear translocator-like	protein coding gene	NM_007489
+Avp	human synonym	MGI:2653833	Nlrp3	"NLR family, pyrin domain containing 3"	protein coding gene	NM_145827
+Avpr2	current symbol	MGI:88123	Avpr2	arginine vasopressin receptor 2	protein coding gene	NM_019404
+B2m	current symbol	MGI:88127	B2m	beta-2 microglobulin	protein coding gene	NM_009735
+Bmp4	current symbol	MGI:88180	Bmp4	bone morphogenetic protein 4	protein coding gene	NM_007554
+Bscl2	current symbol	MGI:1298392	Bscl2	Berardinelli-Seip congenital lipodystrophy 2 (seipin)	protein coding gene	NM_008144
+Casp3	current symbol	MGI:107739	Casp3	caspase 3	protein coding gene	NM_009810
+Cd274	current symbol	MGI:1926446	Cd274	CD274 antigen	protein coding gene	NM_021893
+Cd28	current symbol	MGI:88327	Cd28	CD28 antigen	protein coding gene	NM_007642
+Cd38	current symbol	MGI:107474	Cd38	CD38 antigen	protein coding gene	NM_007646
+Cd4	current symbol	MGI:88335	Cd4	CD4 antigen	protein coding gene	NM_013488
+Cd40lg	current symbol	MGI:88337	Cd40lg	CD40 ligand	protein coding gene	NM_011616
+Cd80	current symbol	MGI:101775	Cd80	CD80 antigen	protein coding gene	NM_009855
+Cd86	current symbol	MGI:101773	Cd86	CD86 antigen	protein coding gene	NM_019388
+Cdk4	current symbol	MGI:88357	Cdk4	cyclin-dependent kinase 4	protein coding gene	NM_009870
+Cdkal1	current symbol	MGI:1921765	Cdkal1	CDK5 regulatory subunit associated protein 1-like 1	protein coding gene	NM_144536
+Cdkn1a	current symbol	MGI:104556	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	protein coding gene	NM_007669
+Cdkn2a	current symbol	MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	protein coding gene	NM_009877
+Ciita	current symbol	MGI:108445	Ciita	class II transactivator	protein coding gene	NM_007575
+Clcnka	current symbol	MGI:1329026	Clcnka	"chloride channel, voltage-sensitive Ka"	protein coding gene	NM_024412
+Clock	current symbol	MGI:99698	Clock	circadian locomotor output cycles kaput	protein coding gene	NM_007715
+Col5a3	current symbol	MGI:1858212	Col5a3	"collagen, type V, alpha 3"	protein coding gene	NM_016919
+Cp	current symbol	MGI:88476	Cp	ceruloplasmin	protein coding gene	NM_007752
+Cpe	current symbol	MGI:101932	Cpe	carboxypeptidase E	protein coding gene	NM_013494
+Crh	current symbol	MGI:88496	Crh	corticotropin releasing hormone	protein coding gene	NM_205769
+Ctf1	current symbol	MGI:105115	Ctf1	cardiotrophin 1	protein coding gene	NM_007795
+Ctnna2	current symbol	MGI:88275	Ctnna2	"catenin (cadherin associated protein), alpha 2"	protein coding gene	NM_145732
+Ctsb	current symbol	MGI:88561	Ctsb	cathepsin B	protein coding gene	NM_007798
+Ctsl	current symbol	MGI:88564	Ctsl	cathepsin L	protein coding gene	NM_009984
+Ctss	current symbol	MGI:107341	Ctss	cathepsin S	protein coding gene	NM_021281
+Cxcl13	current symbol	MGI:1888499	Cxcl13	chemokine (C-X-C motif) ligand 13	protein coding gene	NM_018866
+Cyb5r4	current symbol	MGI:2386848	Cyb5r4	cytochrome b5 reductase 4	protein coding gene	NM_024195
+Dexi	current symbol	MGI:1926236	Dexi	dexamethasone-induced transcript	protein coding gene	NM_021428
+E2f1	current symbol	MGI:101941	E2f1	E2F transcription factor 1	protein coding gene	NM_007891
+Eif2ak3	current symbol	MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	protein coding gene	NM_010121
+Fas	synonym	MGI:95485	Fasn	fatty acid synthase	protein coding gene	NM_007988
+Fasl	current symbol	MGI:99255	Fasl	"Fas ligand (TNF superfamily, member 6)"	protein coding gene	NM_010177
+Fbn1	current symbol	MGI:95489	Fbn1	fibrillin 1	protein coding gene	NM_007993
+Fem1b	current symbol	MGI:1335087	Fem1b	fem 1 homolog b	protein coding gene	NM_010193
+Fen1	current symbol	MGI:102779	Fen1	flap structure specific endonuclease 1	protein coding gene	NM_007999
+Foxm1	current symbol	MGI:1347487	Foxm1	forkhead box M1	protein coding gene	NM_008021
+Foxp3	current symbol	MGI:1891436	Foxp3	forkhead box P3	protein coding gene	NM_054039
+G6pc2	current symbol	MGI:1277193	G6pc2	"glucose-6-phosphatase, catalytic, 2"	protein coding gene	NM_021331
+Gad2	current symbol	MGI:95634	Gad2	glutamic acid decarboxylase 2	protein coding gene	NM_008078
+Gadd45gip1	current symbol	MGI:1914947	Gadd45gip1	"growth arrest and DNA-damage-inducible, gamma interacting protein 1"	protein coding gene	NM_183358
+Gast	current symbol	MGI:104768	Gast	gastrin	protein coding gene	NM_010257
+Gcgr	current symbol	MGI:99572	Gcgr	glucagon receptor	protein coding gene	NM_008101
+Gck	current symbol	MGI:1270854	Gck	glucokinase	protein coding gene	NM_010292
+Gdf15	current symbol	MGI:1346047	Gdf15	growth differentiation factor 15	protein coding gene	NM_011819
+Ghr	synonym	MGI:1930008	Ghrl	ghrelin	protein coding gene	NM_021488
+Glis3	current symbol	MGI:2444289	Glis3	GLIS family zinc finger 3	protein coding gene	NM_175459
+Gprc5a	current symbol	MGI:1891250	Gprc5a	"G protein-coupled receptor, family C, group 5, member A"	protein coding gene	NM_181444
+Grn	synonym	MGI:2675494	Gzmn	granzyme N	protein coding gene	NM_153052
+H2-D1	current symbol	MGI:95896	H2-D1	"histocompatibility 2, D region locus 1"	protein coding gene	NM_010380
+H2-K1	current symbol	MGI:95904	H2-K1	"histocompatibility 2, K1, K region"	protein coding gene	NM_001347346
+Hamp	current symbol	MGI:1933533	Hamp	hepcidin antimicrobial peptide	protein coding gene	NM_032541
+Hfe	current symbol	MGI:109191	Hfe	homeostatic iron regulator	protein coding gene	NM_010424
+Hjv	current symbol	MGI:1916835	Hjv	hemojuvelin BMP co-receptor	protein coding gene	NM_027126
+Hk2	human synonym	MGI:96662	Kcna5	"potassium voltage-gated channel, shaker-related subfamily, member 5"	protein coding gene	NM_145983
+Hmga1	current symbol	MGI:96160	Hmga1	high mobility group AT-hook 1	protein coding gene	NM_016660
+Hmox1	current symbol	MGI:96163	Hmox1	heme oxygenase 1	protein coding gene	NM_010442
+Hnf1a	current symbol	MGI:98504	Hnf1a	HNF1 homeobox A	protein coding gene	NM_009327
+Hnf4a	human synonym	MGI:98504	Hnf1a	HNF1 homeobox A	protein coding gene	NM_009327
+Hnrnpf	current symbol	MGI:2138741	Hnrnpf	heterogeneous nuclear ribonucleoprotein F	protein coding gene	NM_133834
+Hp	synonym	MGI:98821	Trf	transferrin	protein coding gene	NM_133977
+Htr2c	current symbol	MGI:96281	Htr2c	5-hydroxytryptamine (serotonin) receptor 2C	protein coding gene	NM_008312
+Iapp	current symbol	MGI:96382	Iapp	islet amyloid polypeptide	protein coding gene	NM_010491
+Ica1	current symbol	MGI:96391	Ica1	islet cell autoantigen 1	protein coding gene	NM_010492
+Icam1	current symbol	MGI:96392	Icam1	intercellular adhesion molecule 1	protein coding gene	NM_010493
+Icos	current symbol	MGI:1858745	Icos	inducible T cell co-stimulator	protein coding gene	NM_017480
+Ifng	current symbol	MGI:107656	Ifng	interferon gamma	protein coding gene	NM_008337
+Ifngr2	current symbol	MGI:107654	Ifngr2	interferon gamma receptor 2	protein coding gene	NM_008338
+Igf2	current symbol	MGI:96434	Igf2	insulin-like growth factor 2	protein coding gene	NM_010514
+Il1r1	current symbol	MGI:96545	Il1r1	"interleukin 1 receptor, type I"	protein coding gene	NM_008362
+Il2	current symbol	MGI:96548	Il2	interleukin 2	protein coding gene	NM_008366
+Il21r	current symbol	MGI:1890475	Il21r	interleukin 21 receptor	protein coding gene	NM_021887
+Il4	current symbol	MGI:96556	Il4	interleukin 4	protein coding gene	NM_021283
+Ins1	current symbol	MGI:96572	Ins1	insulin I	protein coding gene	NM_008386
+Ins2	current symbol	MGI:96573	Ins2	insulin II	protein coding gene	NM_008387
+Insr	current symbol	MGI:96575	Insr	insulin receptor	protein coding gene	NM_010568
+Irak3	current symbol	MGI:1921164	Irak3	interleukin-1 receptor-associated kinase 3	protein coding gene	NM_028679
+Irs1	current symbol	MGI:99454	Irs1	insulin receptor substrate 1	protein coding gene	NM_010570
+Irs2	current symbol	MGI:109334	Irs2	insulin receptor substrate 2	protein coding gene	NM_001081212
+Itgb2	current symbol	MGI:96611	Itgb2	integrin beta 2	protein coding gene	NM_008404
+Kcnh6	current symbol	MGI:2684139	Kcnh6	"potassium voltage-gated channel, subfamily H (eag-related), member 6"	protein coding gene	NM_001037712
+Kcnj11	current symbol	MGI:107501	Kcnj11	"potassium inwardly rectifying channel, subfamily J, member 11"	protein coding gene	NM_010602
+Klkb1	chicken symbol	MGI:99481	F11	coagulation factor XI	protein coding gene	NM_028066
+Lag3	current symbol	MGI:106588	Lag3	lymphocyte-activation gene 3	protein coding gene	NM_008479
+Ldlr	current symbol	MGI:96765	Ldlr	low density lipoprotein receptor	protein coding gene	NM_010700
+Lep	current symbol	MGI:104663	Lep	leptin	protein coding gene	NM_008493
+Madd	human synonym	MGI:106092	Etfa	"electron transferring flavoprotein, alpha polypeptide"	protein coding gene	NM_145615
+Mafa	current symbol	MGI:2673307	Mafa	"v-maf musculoaponeurotic fibrosarcoma oncogene family, protein A (avian)"	protein coding gene	NM_194350
+Mcph1	current symbol	MGI:2443308	Mcph1	"microcephaly, primary autosomal recessive 1"	protein coding gene	NM_173189
+Mertk	current symbol	MGI:96965	Mertk	MER proto-oncogene tyrosine kinase	protein coding gene	NM_008587
+Met	human synonym	MGI:1915147	Rnmt	RNA (guanine-7-) methyltransferase	protein coding gene	NM_026440
+Mpg	current symbol	MGI:97073	Mpg	N-methylpurine-DNA glycosylase	protein coding gene	NM_010822
+Myd88	current symbol	MGI:108005	Myd88	myeloid differentiation primary response gene 88	protein coding gene	NM_010851
+Neurod1	current symbol	MGI:1339708	Neurod1	neurogenic differentiation 1	protein coding gene	NM_010894
+Nfe2l1	current symbol	MGI:99421	Nfe2l1	"nuclear factor, erythroid derived 2,-like 1"	protein coding gene	NM_008686
+Nfkb1	current symbol	MGI:97312	Nfkb1	"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105"	protein coding gene	NM_008689
+Nkx2-2	current symbol	MGI:97347	Nkx2-2	NK2 homeobox 2	protein coding gene	NM_010919
+Nos2	synonym	MGI:2676627	Nanos2	nanos C2HC-type zinc finger 2	protein coding gene	NM_194064
+Oprm1	current symbol	MGI:97441	Oprm1	"opioid receptor, mu 1"	protein coding gene	NM_001304955
+Os	human synonym	MGI:1100537	Mid1	midline 1	protein coding gene	NM_010797
+Parp1	current symbol	MGI:1340806	Parp1	"poly (ADP-ribose) polymerase family, member 1"	protein coding gene	NM_007415
+Pax6	current symbol	MGI:97490	Pax6	paired box 6	protein coding gene	NM_013627
+Pdcd1lg2	current symbol	MGI:1930125	Pdcd1lg2	programmed cell death 1 ligand 2	protein coding gene	NM_021396
+Pdcd4	current symbol	MGI:107490	Pdcd4	programmed cell death 4	protein coding gene	NM_011050
+Pdgfb	current symbol	MGI:97528	Pdgfb	"platelet derived growth factor, B polypeptide"	protein coding gene	NM_011057
+Pdgfrb	current symbol	MGI:97531	Pdgfrb	"platelet derived growth factor receptor, beta polypeptide"	protein coding gene	NM_008809
+Pdpk1	current symbol	MGI:1338068	Pdpk1	3-phosphoinositide dependent protein kinase 1	protein coding gene	NM_011062
+Pdx1	synonym	MGI:1351627	Pdhx	"pyruvate dehydrogenase complex, component X"	protein coding gene	NM_175094
+Phox2a	current symbol	MGI:106633	Phox2a	paired-like homeobox 2a	protein coding gene	NM_008887
+Pla2g4a	current symbol	MGI:1195256	Pla2g4a	"phospholipase A2, group IVA (cytosolic, calcium-dependent)"	protein coding gene	NM_008869
+Ppara	current symbol	MGI:104740	Ppara	peroxisome proliferator activated receptor alpha	protein coding gene	NM_011144
+Ppard	current symbol	MGI:101884	Ppard	peroxisome proliferator activator receptor delta	protein coding gene	NM_011145
+Pparg	current symbol	MGI:97747	Pparg	peroxisome proliferator activated receptor gamma	protein coding gene	NM_011146
+Ppp1r3a	current symbol	MGI:2153588	Ppp1r3a	"protein phosphatase 1, regulatory subunit 3A"	protein coding gene	NM_080464
+Ppp1r3c	current symbol	MGI:1858229	Ppp1r3c	"protein phosphatase 1, regulatory subunit 3C"	protein coding gene	NM_016854
+Prf1	human synonym	MGI:2682318	Zfp395	zinc finger protein 395	protein coding gene	NM_199029
+Prkci	current symbol	MGI:99260	Prkci	"protein kinase C, iota"	protein coding gene	NM_008857
+Pten	current symbol	MGI:109583	Pten	phosphatase and tensin homolog	protein coding gene	NM_008960
+Ptgs2	current symbol	MGI:97798	Ptgs2	prostaglandin-endoperoxide synthase 2	protein coding gene	NM_011198
+Ptpn22	current symbol	MGI:107170	Ptpn22	"protein tyrosine phosphatase, non-receptor type 22 (lymphoid)"	protein coding gene	NM_008979
+Ptprn	current symbol	MGI:102765	Ptprn	"protein tyrosine phosphatase, receptor type, N"	protein coding gene	NM_008985
+Ptprn2	current symbol	MGI:107418	Ptprn2	"protein tyrosine phosphatase, receptor type, N polypeptide 2"	protein coding gene	NM_011215
+Rel	current symbol	MGI:97897	Rel	reticuloendotheliosis oncogene	protein coding gene	NM_009044
+Rpl13a	current symbol	MGI:1351455	Rpl13a	ribosomal protein L13A	protein coding gene	NM_009438
+Sell	current symbol	MGI:98279	Sell	"selectin, lymphocyte"	protein coding gene	NM_011346
+Senp1	current symbol	MGI:2445054	Senp1	SUMO1/sentrin specific peptidase 1	protein coding gene	NM_144851
+Serpine1	current symbol	MGI:97608	Serpine1	"serine (or cysteine) peptidase inhibitor, clade E, member 1"	protein coding gene	NM_008871
+Sirt1	current symbol	MGI:2135607	Sirt1	sirtuin 1	protein coding gene	NM_019812
+Slc16a10	current symbol	MGI:1919722	Slc16a10	"solute carrier family 16 (monocarboxylic acid transporters), member 10"	protein coding gene	NM_028247
+Slc19a2	current symbol	MGI:1928761	Slc19a2	"solute carrier family 19 (thiamine transporter), member 2"	protein coding gene	NM_054087
+Slc2a2	current symbol	MGI:1095438	Slc2a2	"solute carrier family 2 (facilitated glucose transporter), member 2"	protein coding gene	NM_031197
+Slc2a4	current symbol	MGI:95758	Slc2a4	"solute carrier family 2 (facilitated glucose transporter), member 4"	protein coding gene	NM_009204
+Slc40a1	current symbol	MGI:1315204	Slc40a1	"solute carrier family 40 (iron-regulated transporter), member 1"	protein coding gene	NM_016917
+Slc5a2	current symbol	MGI:2181411	Slc5a2	"solute carrier family 5 (sodium/glucose cotransporter), member 2"	protein coding gene	NM_133254
+Slc8a1	current symbol	MGI:107956	Slc8a1	"solute carrier family 8 (sodium/calcium exchanger), member 1"	protein coding gene	NM_011406
+Snap25	current symbol	MGI:98331	Snap25	synaptosomal-associated protein 25	protein coding gene	NM_011428
+Sqstm1	current symbol	MGI:107931	Sqstm1	sequestosome 1	protein coding gene	NM_011018
+Stat4	synonym	MGI:1924885	Socs6	suppressor of cytokine signaling 6	protein coding gene	NM_018821
+Stat6	current symbol	MGI:103034	Stat6	signal transducer and activator of transcription 6	protein coding gene	NM_009284
+Sucnr1	current symbol	MGI:1934135	Sucnr1	succinate receptor 1	protein coding gene	NM_032400
+Sugct	current symbol	MGI:1923221	Sugct	succinyl-CoA glutarate-CoA transferase	protein coding gene	NM_138654
+Tcf21	current symbol	MGI:1202715	Tcf21	transcription factor 21	protein coding gene	NM_011545
+Tfr2	current symbol	MGI:1354956	Tfr2	transferrin receptor 2	protein coding gene	NM_015799
+Tgfbi	current symbol	MGI:99959	Tgfbi	"transforming growth factor, beta induced"	protein coding gene	NM_009369
+Tgfbr2	current symbol	MGI:98729	Tgfbr2	"transforming growth factor, beta receptor II"	protein coding gene	NM_029575
+Tgm2	current symbol	MGI:98731	Tgm2	"transglutaminase 2, C polypeptide"	protein coding gene	NM_009373
+Tlf	synonym	MGI:1339946	Tbpl1	TATA box binding protein-like 1	protein coding gene	NM_011603
+Tlr2	current symbol	MGI:1346060	Tlr2	toll-like receptor 2	protein coding gene	NM_011905
+Tlr5	"frog, western clawed symbol"	MGI:2138351	Susd4	sushi domain containing 4	protein coding gene	NM_144796
+Tnfrsf1a	current symbol	MGI:1314884	Tnfrsf1a	"tumor necrosis factor receptor superfamily, member 1a"	protein coding gene	NM_011609
+Tnfrsf1b	current symbol	MGI:1314883	Tnfrsf1b	"tumor necrosis factor receptor superfamily, member 1b"	protein coding gene	NM_011610
+Tnfrsf9	current symbol	MGI:1101059	Tnfrsf9	"tumor necrosis factor receptor superfamily, member 9"	protein coding gene	NM_011612
+Tnfsf10	current symbol	MGI:107414	Tnfsf10	"tumor necrosis factor (ligand) superfamily, member 10"	protein coding gene	NM_009425
+Tnfsf4	current symbol	MGI:104511	Tnfsf4	"tumor necrosis factor (ligand) superfamily, member 4"	protein coding gene	NM_009452
+Trp53inp1	current symbol	MGI:1926609	Trp53inp1	transformation related protein 53 inducible nuclear protein 1	protein coding gene	NM_021897
+Trp53inp2	current symbol	MGI:1915978	Trp53inp2	transformation related protein 53 inducible nuclear protein 2	protein coding gene	NM_178111
+Uox	current symbol	MGI:98907	Uox	urate oxidase	protein coding gene	NM_009474
+Vdr	current symbol	MGI:103076	Vdr	"vitamin D (1,25-dihydroxyvitamin D3) receptor"	protein coding gene	NM_009504
+Vsx2	current symbol	MGI:88401	Vsx2	visual system homeobox 2	protein coding gene	NM_007701
+Vtcn1	current symbol	MGI:3039619	Vtcn1	V-set domain containing T cell activation inhibitor 1	protein coding gene	NM_178594
+Wfs1	current symbol	MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	protein coding gene	NM_011716
