@@ -23,6 +23,8 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 - [mgi_batch_report.txt](mgi_batch_report.txt)
 - [gene_samples.tar.gz](gene_samples.tar.gz)
 
+## Week 9 Files
+- [bmi8540_courseinfo.sql](bmi8540_courseinfo.sql)
 
 
 ### Sample header
