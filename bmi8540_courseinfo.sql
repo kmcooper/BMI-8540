@@ -40,10 +40,10 @@ CREATE TABLE instructor_list(
  PRIMARY KEY(iid)
 );
 
-INSERT INTO instructor_list VALUES(111,"Kiran","Bastola","Si2","Professor");
-INSERT INTO instructor_list VALUES(115,"Martina","Clarke","Si2","Assistant Professor");
-INSERT INTO instructor_list VALUES(113,"Kate","Cooper","Si2","Assistant Professor");
-INSERT INTO instructor_list VALUES(110,"Ann","Fruhling","Si2","Professor");
-INSERT INTO instructor_list VALUES(112,"Dario","Ghersi","Si2","Associate Professor");
-INSERT INTO instructor_list VALUES(114,"Tyler","Smith","External","Instructor");
-INSERT INTO instructor_list VALUES(109,"Hesham","Ali","CS","Dean");
+INSERT INTO instructor_list VALUES(111,"Kir","Bast","Si2","Professor");
+INSERT INTO instructor_list VALUES(115,"Mar","Clar","Si2","Assistant Professor");
+INSERT INTO instructor_list VALUES(113,"Kat","Coop","Si2","Assistant Professor");
+INSERT INTO instructor_list VALUES(110,"Ann","Fruh","Si2","Professor");
+INSERT INTO instructor_list VALUES(112,"Dar","Gher","Si2","Associate Professor");
+INSERT INTO instructor_list VALUES(114,"Tyl","Smit","External","Instructor");
+INSERT INTO instructor_list VALUES(109,"Hes","Al","CS","Dean");
