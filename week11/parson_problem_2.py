@@ -11,9 +11,9 @@ query = 'SELECT firstname, lastname, dept FROM ' + \
         'instructor_list WHERE iid LIKE "1%"' + \
 
 print("First\tLast\tDepartment")
-
-while(row):
+        
     fname = row[0]
+while(row):
     lname = row[1]
     dept = row[2]
     print(fname + "\t" + lname + "\t" + dept)
