@@ -27,7 +27,7 @@ This is the code respository for BMI 8540 Foundations of BMI Programming
 - [bmi8540_courseinfo.sql](bmi8540_courseinfo.sql)
 
 ## Week 11 Files
-- [parson_problem_2.py](parson_problem_2.py)
+- [parson_problem_2.py](/week11/parson_problem_2.py)
 
 ### Sample header
 Some text
