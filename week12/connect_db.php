@@ -22,7 +22,7 @@ if($connect->connect_error){
 /* Run a basic SQL query and throw
  * an error if its unable to perform the query
  */
-$query = "SELECT nuid FROM instructor";
+$query = "SELECT firstname FROM instructor_list";
 $result = mysqli_query($connect, $query) 
 	  or trigger_error("Query Failed! SQL: $query - Error: "
 	  . mysqli_error($connect), E_USER_ERROR);
