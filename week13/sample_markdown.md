@@ -9,9 +9,8 @@ This page is currently under construction and may change rapidly.
 Python 3: PEP 8 Style Guide 
 - [Click here to go to the style guide](https://www.python.org/dev/peps/pep-0008/)
 
-### Image
-
-![alt text](image.jpg)
+### Sample UNO Image
+![Sample Image - UNO Logo](https://www.unomaha.edu/university-communications/_files/img/icon-black.jpg)
 
 ### H3 (S)
 
