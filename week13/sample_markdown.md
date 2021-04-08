@@ -15,8 +15,10 @@ Python 3: PEP 8 Style Guide
 - HTML+PHP
 - MySQL
 
-
-### H3 (S)
+## Usage Statement for Assignment 14
+```
+python3 netid_assign14.py fileName.csv 1 
+```
 
 ### Bold
 
