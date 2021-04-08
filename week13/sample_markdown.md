@@ -7,6 +7,7 @@ This page is currently under construction and may change rapidly.
 
 ## Style Guides Used
 Python 3: PEP 8 Style Guide
+Link: https://www.python.org/dev/peps/pep-0008/
 
 ### H3 (S)
 
