@@ -1,18 +1,14 @@
-# Markdown Cheat Sheet
+# Sample README Page for BMI 8540
+This is a demo README page for BMI 8540 students to learn about GitHub repo.
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+## Page Status
+This page is currently under construction and may change rapidly. 
 
-## Basic Syntax
+## Style Guides Used
+Python 3: PEP 8 Style Guide
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-### Heading
-
-# H1
-## H2
-### H3
+### H3 (S)
 
 ### Bold
 
