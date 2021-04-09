@@ -1,0 +1,326 @@
+LOCUS       NM_013823               5124 bp    mRNA    linear   ROD 22-MAR-2021
+DEFINITION  Mus musculus klotho (Kl), mRNA.
+ACCESSION   NM_013823
+VERSION     NM_013823.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 5124)
+  AUTHORS   Chen CC, Chang ZY, Tsai FJ and Chen SY.
+  TITLE     Resveratrol Pretreatment Ameliorates Concanavalin A-Induced
+            Advanced Renal Glomerulosclerosis in Aged Mice through Upregulation
+            of Sirtuin 1-Mediated Klotho Expression
+  JOURNAL   Int J Mol Sci 21 (18), E6766 (2020)
+   PUBMED   32942691
+  REMARK    GeneRIF: Resveratrol Pretreatment Ameliorates Concanavalin
+            A-Induced Advanced Renal Glomerulosclerosis in Aged Mice through
+            Upregulation of Sirtuin 1-Mediated Klotho Expression.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5124)
+  AUTHORS   Bollehuus Hansen L, Kaludjerovic J, Nielsen JE, Rehfeld A, Poulsen
+            NN, Ide N, Skakkebaek NE, Frederiksen H, Juul A, Lanske B and
+            Blomberg Jensen M.
+  TITLE     Influence of FGF23 and Klotho on male reproduction: Systemic vs
+            direct effects
+  JOURNAL   FASEB J 34 (9), 12436-12449 (2020)
+   PUBMED   32729975
+  REMARK    GeneRIF: Influence of FGF23 and Klotho on male reproduction:
+            Systemic vs direct effects.
+REFERENCE   3  (bases 1 to 5124)
+  AUTHORS   Kawarazaki W, Mizuno R, Nishimoto M, Ayuzawa N, Hirohama D, Ueda K,
+            Kawakami-Mori F, Oba S, Marumo T and Fujita T.
+  TITLE     Salt causes aging-associated hypertension via vascular Wnt5a under
+            Klotho deficiency
+  JOURNAL   J Clin Invest 130 (8), 4152-4166 (2020)
+   PUBMED   32597829
+  REMARK    GeneRIF: Salt causes aging-associated hypertension via vascular
+            Wnt5a under Klotho deficiency.
+REFERENCE   4  (bases 1 to 5124)
+  AUTHORS   Landry T, Laing BT, Li P, Bunner W, Rao Z, Prete A, Sylvestri J and
+            Huang H.
+  TITLE     Central alpha-Klotho Suppresses NPY/AgRP Neuron Activity and
+            Regulates Metabolism in Mice
+  JOURNAL   Diabetes 69 (7), 1368-1381 (2020)
+   PUBMED   32332158
+REFERENCE   5  (bases 1 to 5124)
+  AUTHORS   Rusinek K, Solek P, Tabecka-Lonczynska A, Koziorowski M and Mytych
+            J.
+  TITLE     Focus on the Role of Klotho Protein in Neuro-Immune Interactions in
+            HT-22 Cells Upon LPS Stimulation
+  JOURNAL   Cells 9 (5), E1231 (2020)
+   PUBMED   32429346
+  REMARK    GeneRIF: Focus on the Role of Klotho Protein in Neuro-Immune
+            Interactions in HT-22 Cells Upon LPS Stimulation.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 5124)
+  AUTHORS   Kawaguchi H, Manabe N, Miyaura C, Chikuda H, Nakamura K and Kuro-o
+            M.
+  TITLE     Independent impairment of osteoblast and osteoclast differentiation
+            in klotho mouse exhibiting low-turnover osteopenia
+  JOURNAL   J Clin Invest 104 (3), 229-237 (1999)
+   PUBMED   10430604
+REFERENCE   7  (bases 1 to 5124)
+  AUTHORS   Johnson FB, Sinclair DA and Guarente L.
+  TITLE     Molecular biology of aging
+  JOURNAL   Cell 96 (2), 291-302 (1999)
+   PUBMED   9988222
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 5124)
+  AUTHORS   Yamashita T, Nifuji A, Furuya K, Nabeshima Y and Noda M.
+  TITLE     Elongation of the epiphyseal trabecular bone in transgenic mice
+            carrying a klotho gene locus mutation that leads to a syndrome
+            resembling aging
+  JOURNAL   J Endocrinol 159 (1), 1-8 (1998)
+   PUBMED   9795335
+  REMARK    Review article
+REFERENCE   9  (bases 1 to 5124)
+  AUTHORS   Shiraki-Iida T, Aizawa H, Matsumura Y, Sekine S, Iida A, Anazawa H,
+            Nagai R, Kuro-o M and Nabeshima Y.
+  TITLE     Structure of the mouse klotho gene and its two transcripts encoding
+            membrane and secreted protein
+  JOURNAL   FEBS Lett 424 (1-2), 6-10 (1998)
+   PUBMED   9537505
+REFERENCE   10 (bases 1 to 5124)
+  AUTHORS   Kuro-o M, Matsumura Y, Aizawa H, Kawaguchi H, Suga T, Utsugi T,
+            Ohyama Y, Kurabayashi M, Kaname T, Kume E, Iwasaki H, Iida A,
+            Shiraki-Iida T, Nishikawa S, Nagai R and Nabeshima YI.
+  TITLE     Mutation of the mouse klotho gene leads to a syndrome resembling
+            ageing
+  JOURNAL   Nature 390 (6655), 45-51 (1997)
+   PUBMED   9363890
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BC138259.1 and AB005141.1.
+            On Apr 22, 2009 this sequence version replaced NM_013823.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AB005141.1, BC138258.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00849385, SAMN01164131
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-4237              BC138259.1         1-4237
+            4238-5124           AB005141.1         4146-5032
+FEATURES             Location/Qualifiers
+     source          1..5124
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10090"
+                     /chromosome="5"
+                     /map="5"
+     gene            1..5124
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="klotho"
+                     /db_xref="GeneID:16591"
+                     /db_xref="MGI:MGI:1101771"
+     exon            1..935
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    3..5
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="upstream in-frame stop codon"
+     CDS             111..3155
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /EC_number="3.2.1.31"
+                     /note="secreted form of Klotho protein"
+                     /codon_start=1
+                     /product="klotho precursor"
+                     /protein_id="NP_038851.2"
+                     /db_xref="CCDS:CCDS19889.1"
+                     /db_xref="GeneID:16591"
+                     /db_xref="MGI:MGI:1101771"
+                     /translation="MLARAPPRRPPRLVLLRLLLLHLLLLALRARCLSAEPGQGAQTW
+                     ARFARAPAPEAAGLLHDTFPDGFLWAVGSAAYQTEGGWRQHGKGASIWDTFTHHSGAA
+                     PSDSPIVVAPSGAPSPPLSSTGDVASDSYNNVYRDTEGLRELGVTHYRFSISWARVLP
+                     NGTAGTPNREGLRYYRRLLERLRELGVQPVVTLYHWDLPQRLQDTYGGWANRALADHF
+                     RDYAELCFRHFGGQVKYWITIDNPYVVAWHGYATGRLAPGVRGSSRLGYLVAHNLLLA
+                     HAKVWHLYNTSFRPTQGGRVSIALSSHWINPRRMTDYNIRECQKSLDFVLGWFAKPIF
+                     IDGDYPESMKNNLSSLLPDFTESEKRLIRGTADFFALSFGPTLSFQLLDPNMKFRQLE
+                     SPNLRQLLSWIDLEYNHPPIFIVENGWFVSGTTKRDDAKYMYYLKKFIMETLKAIRLD
+                     GVDVIGYTAWSLMDGFEWHRGYSIRRGLFYVDFLSQDKELLPKSSALFYQKLIEDNGF
+                     PPLPENQPLEGTFPCDFAWGVVDNYVQVDTTLSQFTDPNVYLWDVHHSKRLIKVDGVV
+                     AKKRKPYCVDFSAIRPQITLLREMRVTHFRFSLDWALILPLGNQTQVNHTVLHFYRCM
+                     ISELVHANITPVVALWQPAAPHQGLPHALAKHGAWENPHTALAFADYANLCFKELGHW
+                     VNLWITMNEPNTRNMTYRAGHHLLRAHALAWHLYDDKFRAAQKGKISIALQADWIEPA
+                     CPFSQNDKEVAERVLEFDIGWLAEPIFGSGDYPRVMRDWLNQKNNFLLPYFTEDEKKL
+                     VRGSFDFLAVSHYTTILVDWEKEDPMKYNDYLEVQEMTDITWLNSPSQVAVVPWGLRK
+                     VLNWLRFKYGDLPMYVTANGIDDDPHAEQDSLRIYYIKNYVNEALKAYVLDDINLCGY
+                     FAYSLSDRSAPKSGFYRYAANQFEPKPSMKHYRKIIDSNGFLGSGTLGRFCPEEYTVC
+                     TECGFFQTRKSLLVFISFLVFTFIISLALIFHYSKKGQRSYK"
+     sig_peptide     111..212
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    285..1634
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35082.2);
+                     Region: Glycosyl hydrolase-1 1"
+     misc_feature    591..593
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O35082.2); glycosylation site"
+     misc_feature    963..965
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O35082.2); glycosylation site"
+     misc_feature    1146..1148
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O35082.2); glycosylation site"
+     misc_feature    1659..2975
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35082.2);
+                     Region: Glycosyl hydrolase-1 2"
+     misc_feature    1935..1937
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O35082.2); glycosylation site"
+     misc_feature    1950..1952
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O35082.2); glycosylation site"
+     misc_feature    2196..2198
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (O35082.2); glycosylation site"
+     misc_feature    3057..3119
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /note="propagated from UniProtKB/Swiss-Prot (O35082.2);
+                     transmembrane region"
+     exon            936..1446
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1447..1715
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1716..2817
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2818..5118
+                     /gene="Kl"
+                     /gene_synonym="alp; alpha-kl"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gataatcatt gctcgtgggg cggcgggagc gggggtgggc accgcgtagg gagggcggcg
+       61 gggcgcgggc atataggggc gcggcgcggt gccctcccgg ctcccgcagc atgctagccc
+      121 gcgcccctcc tcgccgcccg ccgcggctgg tgctgctccg tttgctgttg ctgcatctgc
+      181 tgctgctcgc cctgcgcgcc cgctgcctga gcgctgagcc gggtcagggc gcgcagacct
+      241 gggctcgctt cgcgcgcgct cctgccccag aggccgctgg cctcctccac gacaccttcc
+      301 ccgacggttt cctctgggcg gtaggcagcg ccgcctatca gaccgagggc ggctggcgac
+      361 agcacggcaa aggcgcgtcc atctgggaca ctttcaccca tcactctggg gcggccccgt
+      421 ccgactcccc gatcgtcgtg gcgccgtcgg gtgccccgtc gcctcccctg tcctccactg
+      481 gagatgtggc cagcgatagt tacaacaacg tctaccgcga cacagagggg ctgcgcgaac
+      541 tgggggtcac ccactaccgc ttctccatat cgtgggcgcg ggtgctcccc aatggcaccg
+      601 cgggcactcc caaccgcgag gggctgcgct actaccggcg gctgctggag cggctgcggg
+      661 agctgggcgt gcagccggtg gttaccctgt accattggga cctgccacag cgcctgcagg
+      721 acacctatgg cggatgggcc aatcgcgccc tggccgacca tttcagggat tatgccgagc
+      781 tctgcttccg ccacttcggt ggtcaggtca agtactggat caccattgac aacccctacg
+      841 tggtggcctg gcacgggtat gccaccgggc gcctggcccc gggcgtgagg ggcagctcca
+      901 ggctcgggta cctggttgcc cacaacctac ttttggctca tgccaaagtc tggcatctct
+      961 acaacacctc tttccgcccc acacagggag gccgggtgtc tatcgcctta agctcccatt
+     1021 ggatcaatcc tcgaagaatg actgactata atatcagaga atgccagaag tctcttgact
+     1081 ttgtgctagg ctggtttgcc aaacccatat ttattgatgg cgactaccca gagagtatga
+     1141 agaacaacct ctcgtctctt ctgcctgatt ttactgaatc tgagaagagg ctcatcagag
+     1201 gaactgctga cttttttgct ctctccttcg gaccaacctt gagctttcag ctattggacc
+     1261 ctaacatgaa gttccgccaa ttggagtctc ccaacctgag gcagcttctg tcttggatag
+     1321 atctggaata taaccaccct ccaatattta ttgtggaaaa tggctggttt gtctcgggaa
+     1381 ccaccaaaag ggatgatgcc aaatatatgt attatctcaa gaagttcata atggaaacct
+     1441 taaaagcaat cagactggat ggggtcgacg tcattgggta caccgcgtgg tcgctcatgg
+     1501 acggtttcga gtggcatagg ggctacagca tccggcgagg actcttctac gttgactttc
+     1561 tgagtcagga caaggagctg ttgccaaagt cttcggcctt gttctaccaa aagctgatag
+     1621 aggacaatgg ctttcctcct ttacctgaaa accagcccct tgaagggaca tttccctgtg
+     1681 actttgcttg gggagttgtt gacaactacg ttcaagtgga cactactctc tctcagttta
+     1741 ctgacccgaa tgtctatctg tgggatgtgc atcacagtaa gaggcttatt aaagtagacg
+     1801 gggttgtagc caagaagaga aaaccttact gtgttgattt ctctgccatc cggcctcaga
+     1861 taaccttact tcgagaaatg cgggtcaccc actttcgctt ctccctggac tgggccctga
+     1921 tcttgcctct gggtaaccag acccaagtga accacacggt tctgcacttc taccgctgca
+     1981 tgatcagcga gctggtgcac gccaacatca ctccagtggt ggccctgtgg cagccagcag
+     2041 ccccgcacca aggcctgcca catgcccttg caaaacatgg ggcctgggag aacccgcaca
+     2101 ctgctctggc gtttgcagac tacgcaaacc tgtgttttaa agagttgggt cactgggtca
+     2161 atctctggat caccatgaac gagccaaaca cacggaacat gacctatcgt gccgggcacc
+     2221 acctcctgag agcccatgcc ttggcttggc atctgtacga tgacaagttt agggcggctc
+     2281 agaaaggcaa aatatccatc gccttgcagg ctgactggat agaaccggcc tgccctttct
+     2341 ctcaaaatga caaagaagtg gccgagagag ttttggaatt tgatataggc tggctggcag
+     2401 agcctatttt tggttccgga gattatccac gtgtgatgag ggactggctg aaccaaaaaa
+     2461 acaattttct tttgccctat ttcaccgaag atgaaaaaaa gctagtccgg ggttcctttg
+     2521 acttcctggc ggtgagtcat tacaccacca ttctggtaga ctgggaaaag gaggatccga
+     2581 tgaaatacaa cgattacttg gaggtacagg agatgactga catcacatgg ctcaactctc
+     2641 ccagtcaggt ggcagtggtg ccttgggggc tgcgcaaagt gctcaactgg ctaaggttca
+     2701 agtacggaga cctcccgatg tatgtgacag ccaatggaat cgatgatgac ccccacgccg
+     2761 agcaagactc actgaggatc tattatatta agaattatgt gaatgaggct ctgaaagcct
+     2821 acgtgttgga cgacatcaac ctttgtggct actttgcgta ttcacttagt gatcgctcag
+     2881 ctcccaagtc tggcttttat cgatatgctg cgaatcagtt tgagcccaaa ccatctatga
+     2941 aacattacag gaaaattatt gacagcaatg gcttcctggg ttctggaaca ctgggaaggt
+     3001 tttgtccaga agaatacact gtgtgcaccg aatgtggatt ttttcaaacc cggaagtctt
+     3061 tgctggtctt catctcgttt cttgttttta cttttattat ttctcttgct ctcatttttc
+     3121 actactccaa gaaaggccag agaagttata agtaatgtga acgtctgcct ggccattcgc
+     3181 tttgggatca agatgtacac gccgtcagcc gtttgcacct ctctgtgttg tgagccgcat
+     3241 tccacacatt tcgattctag aaaacccttt ttgtcatggg tggtagaggt tttaaacagg
+     3301 aattggtgag aataaaatat tgcagggtga atggtatctg aatctgctct ctttggtggc
+     3361 aattacggaa ttatactcac cacagtttct acagtgcccc ggaatggaag gcatagaata
+     3421 cggtagggat aacagtgcca agcagacaga agtttaaaga acaactttag ggacttgttt
+     3481 atccatggcc atttttaaat tcactcctgt tggggagtaa cactctctca attaccatct
+     3541 taacacctgg actttacctg atccagtttt acaaggtgaa gtagaaaaat atccagtaaa
+     3601 ggtggccaag agccctgagt ccagagcagc ccattaagaa gcactattcc taccaaatgc
+     3661 tgctaatgtc aatttacaaa tatacttaga aagcacatta tggacatttg tattcttgtg
+     3721 aatgtttttg aggtgtgccc taaaccccag atccttgagg gctttctctt accaactttc
+     3781 ctttcagagc ctgcttgttg gagattcttc cccagccccc ttcccctttc cctcttgctc
+     3841 tgccccacct cgctccaccc agcttgctcc agcccaaaga ttctttattt gtttctcatt
+     3901 accgaaggtt gtgagccacc atgtggtttc tgggatttga actcatgacc tccggaggag
+     3961 ctgtcatgct cttaaccagc ccatgttgaa gattcttttg ataaatattc acaaaaaata
+     4021 aagatgagcc atgagctgtt ggcctcttcg gaagcggaaa ctgagtgatt tgattgaaca
+     4081 tccttttatc tttgaccaga ccttggaatg aatgcaatga cctttcccac aggaagaagg
+     4141 aggagctctc agtcaaactg taaagaatgc ctcttcagaa tatgctgtca gtgcttggat
+     4201 gccatgatgt tcaactttct tagtcgatcc ggcagcaatc acagtgtgag cacactggga
+     4261 acctgtcctt gcggccgccg agatctaccg tgtgcttctg tgaagaggct ttgacgtagc
+     4321 ccctctttga gctcttacac catgctactg acttctagaa aggctaatta ggtcttcttc
+     4381 tacacctaat accctaagtc ttactgactc tcacgggaga agtctctgtg ctacacctga
+     4441 gtggtcttat tgataaccct gataccagat caggcaagat aaatccgtca tagcaggcat
+     4501 ggctaccctt gctgccacag ggtcacagca catagctcat caccctgtta ttcttcatct
+     4561 tgcaatgtgg tatggttttc ctggtgaatg atcagctttt gctgtggtat tctttataca
+     4621 tctggactta ttattgaaat caaatgctat agaatcaata gtttatttta tgtctatttt
+     4681 tcttgatcgc agagtaatat atattaattg taaaaaattt aagaaacaaa aactatatgt
+     4741 aaagaaaaaa ttataatata atacagagat gctgctgaca gttcctatgt gttgtgtttt
+     4801 gtatactgag atcatgtgat acgtaggcat acatcttctt gggttttttt gtttttgttt
+     4861 tttgttttgt tttgttttgt tttggttttt tgagataggg tttctctgta tagccctggc
+     4921 tgtcctggaa ctcactttgc agaccaggct agcctcaaac tcttattcat ttttactgaa
+     4981 gtaatttttc tgtcattagt cttcaagagc aaaactttaa tagttatgga gaatattgcc
+     5041 agaacagctc aaaactgttt tatttgttgg tccaatttcc cattaattag ttcaataata
+     5101 aatatcattt agaaataaaa aaaa
+//
+
