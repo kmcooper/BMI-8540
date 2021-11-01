@@ -1,7 +1,7 @@
 # BMI8540
 This is the code repository for BMI 8540 Foundations of BMI Programming at the University of Nebraska at Omaha
 
-License: 
+License: [GNU GPL v3](LICENSE)
 
 ## Week 2 Files
 - [helloWorld.py](/week2/helloWorld.py)
