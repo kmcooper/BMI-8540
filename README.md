@@ -35,4 +35,4 @@ License: [GNU GPL v3](LICENSE)
 ### Sample header
 Some text
 - bullet 1
-- bellet 3
+- bullet 3
