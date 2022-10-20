@@ -1,5 +1,5 @@
-# BMI8540
-This is the code repository for BMI 8540 Foundations of BMI Programming at the University of Nebraska at Omaha
+# Foundations of BMI Programming
+This is the code repository for Foundations of BMI Programming 
 
 License: [GNU GPL v3](LICENSE)
 
