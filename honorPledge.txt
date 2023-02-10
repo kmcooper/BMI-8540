@@ -1,6 +1,6 @@
 # Name: Full Name 
 # EMAIL: Put your preferred, full e-mail address here
-# Class: BMI 8540, Spring 2021 
+# Class: BMI 8540, Spring 2023 
 # Assignment #: The number of the assignment 
 # 
 # Honor Pledge: On my honor as a student of the University of Nebraska at 
